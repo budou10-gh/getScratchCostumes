@@ -1,0 +1,14 @@
+#result{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 16px;
+}
+.resultItem {
+    background-color: gray;
+}
+.resultItemLink{
+    color: white;
+}
